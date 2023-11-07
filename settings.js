@@ -11,7 +11,7 @@ global.AUTO_CHATGPT = false // if you want auto ai bot mod
 global.READ_MESSAGE = false // if you want read message from bot
 global.ONLY_INBOX = false // Only inbox mod ( only pm ) use
 global.ONLY_GROUPS = false // Only Groups Use
-
+global.READ_STATUS = true
 
 /*
 🤖 𝗕𝗢𝗧 𝗜𝗡𝗙𝗢 𝗦𝗘𝗧𝗧𝗜𝗡𝗚𝗦
